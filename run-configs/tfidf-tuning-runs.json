@@ -1,0 +1,36 @@
+{
+  "runs": [
+    {
+      "term_scoring_type": "tfidf",
+      "scoring_method_type": "unigram",
+      "name_format": "%s-unigram_tfidf",
+      "t_param": [""],
+      "t_start": [1],
+      "t_end": [1],
+      "t_increment": [1],
+      "m_param": [""],
+      "m_start": [1],
+      "m_end": [1],
+      "m_increment": [1],
+      "folder_name": "tfidf",
+      "stopwords": [],
+      "stem": false
+    },
+    {
+      "term_scoring_type": "tfidfln",
+      "scoring_method_type": "unigram",
+      "name_format": "%s-unigram_tfidfln",
+      "t_param": [""],
+      "t_start": [1],
+      "t_end": [1],
+      "t_increment": [1],
+      "m_param": [""],
+      "m_start": [1],
+      "m_end": [1],
+      "m_increment": [1],
+      "folder_name": "tfidf",
+      "stopwords": [],
+      "stem": false
+    }
+  ]
+}

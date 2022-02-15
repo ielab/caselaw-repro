@@ -1,0 +1,1194 @@
+{
+	"topics": [
+		{
+            "id": 1,
+			"topic": "What is the effect of reinstating a company that was in liquidation as regards money that may be recovered?",
+			"relevant": [
+				"[2018] FCA 884"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law",
+			"relevant_leg": [{"section": "s 601AH", "act": "Corporations Act 2001 (Cth)"}]
+		},
+		{
+            "id": 2,
+			"topic": "Is the variation of the date for settlement required to be in writing?",
+			"relevant": [
+				"[2008] QSC 326",
+				"[2003] QCA 541"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law",
+			"relevant_leg": [{"section": "s 59", "act": "Property Law Act 1974 (Qld)"}, {"section": "s 11", "act": "Property Law Act 1974 (Qld)"}]
+		},
+		{
+            "id": 3,
+			"topic": "Maintenance and champerty and the requisite degree of control",
+			"relevant": [
+				"[2007] FCAFC 52"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 4,
+			"topic": "agency fees and effective cause of sale of a boat",
+			"relevant": [
+				"[2012] QSC 401"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "fact"
+		},
+		{
+            "id": 5,
+			"topic": "Should damages be reduced according to a sum that represents betterment",
+			"relevant": [
+				"[2018] QSC 303",
+				"[2006] FCA 883",
+				"[2004] FCA 1211"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 6,
+			"topic": "Consideration of a clause that provides that the contract is subject to the buyer being satisfied, in its absolute discretion, with the due diligence by a date",
+			"relevant": [
+				"[2006] QCA 559",
+				"[2016] QSC 75",
+				"[2003] QSC 5"
+			],
+			"somewhat relevant": [
+				"[2013] QSC 159",
+				"[2007] QCA 102",
+				"[2014] QSC 265"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 7,
+			"topic": "Maintenance and champerty",
+			"relevant": [
+				"[2019] QSC 12",
+				"[2016] QSC 226",
+				"[2017] QSC 139",
+				"[2011] QSC 158"
+			],
+			"somewhat relevant": [
+				"[2014] QSC 65",
+				"[2012] QCA 240"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 8,
+			"topic": "proportionality as a basis for striking out a defamation claim",
+			"relevant": [
+				"[2014] QDC 302",
+				"[2016] QCA 116"
+			],
+			"type": "specific",
+			"nature": "both",
+			"focus": "law"
+		},
+		{
+            "id": 9,
+			"topic": "In trade or commerce",
+			"relevant": [
+				"[2002] FCA 860",
+				"[2005] FCA 1307",
+				"[2004] FCAFC 240"
+			],
+			"type": "broad",
+			"focus": "law",
+			"nature": "substantive",
+			"relevant_leg": [{"act": "Trade Practices Act 1974 (Cth)"}, {"act": "Competition and Consumer Act 2010 (Cth)"}, {"act": "Australian Consumer Law"}]
+		},
+		{
+            "id": 10,
+			"topic": "Whether membership of an organisation is in trade or commerce",
+			"relevant": [
+				"[2008] FCAFC 72",
+				"[2002] FCAFC 197",
+				"[2001] FCA 1106"
+			],
+			"type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"relevant_leg": [{"act": "Trade Practices Act 1974 (Cth)"}, {"act": "Competition and Consumer Act 2010 (Cth)"}, {"act": "Australian Consumer Law"}]
+		},
+		{
+            "id": 11,
+			"topic": "Organisations owing members a duty of care",
+			"relevant": [
+				"[2004] QCA 137",
+				"[2002] QCA 163"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "fact"
+		},
+		{
+            "id": 12,
+			"topic": "That proprietary relief is only available after rescission ",
+			"relevant": [
+				"[2016] FCAFC 85",
+				"[2012] FCAFC 6",
+				"[2008] QCA 376"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 13,
+			"topic": "Exemplary damages and retaining the benefit of any brokerage being a basis for their assessment",
+			"relevant": [
+				"[2005] QSC 233"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "fact"
+		},
+		{
+            "id": 15,
+			"topic": "Google search results and defamation",
+			"relevant": [
+				"[2013] FCA 60"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "fact"
+		},
+		{
+            "id": 17,
+			"topic": "Postponing the giving of particulars of a claim until after discovery",
+			"relevant": [
+				"[2016] QSC 87"
+			],
+			"type": "specific",
+			"nature": "procedural",
+			"focus": "fact",
+			"relevant_leg": [{"section": "r 157", "act": "Uniform Civil Procedure Rules 1999 (Qld)"}, {"section": "r 16.41", "act": "Federal Court Rules 2011 (Cth)"}, {"section": "r 16.45", "act": "Federal Court Rules 2011 (Cth)"}, {"section": "o 12", "act": "Federal Court Rules 1979 (Cth)"}]
+		},
+		{
+            "id": 19,
+			"topic": "Bare trustee duties",
+			"relevant": [
+				"[2011] FCAFC 79",
+				"[2017] FCA 653",
+				"[2017] FCA 974",
+				"[2013] FCA 355"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 21,
+			"topic": "Valuation of future losses with limited evidence",
+			"relevant": [
+				"[2008] QCA 275"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 22,
+			"topic": "Business profitability as a basis for assessing damages",
+			"relevant": [
+				"[2010] QSC 89"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "fact"
+		},
+		{
+            "id": 23,
+			"topic": "Administrative decision making and the Briginshaw standard of proof",
+			"relevant": [
+				"[2016] FCAFC 52",
+				"[2014] FCAFC 93"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 24,
+			"topic": "Common intention constructive trusts",
+			"relevant": [
+				"[2018] FCAFC 194",
+				"[2015] QCA 199",
+				"[2012] QCA 350"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 25,
+			"topic": "Restitutionary relief and entitlement to a benefit",
+			"relevant": [
+				"[2018] QSC 13",
+				"[2015] QSC 278",
+				"[2016] QCA 255",
+				"[2018] QCA 327"	
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 27,
+			"topic": "Interlocutory applications and res judicata",
+			"relevant": [
+				"[2010] QCA 207",
+				"[2007] QCA 364"
+			],
+			"type": "specific",
+			"nature": "procedural",
+			"focus": "law"
+		}, 
+		{
+            "id": 28,
+			"topic": "whether future profit on resale are to be brought to bear on a question of loss of opportunity",
+			"relevant": [
+				"[2004] FCAFC 189",
+				"[2005] QCA 96",
+				"[2018] QSC 207",
+				"[2001] QCA 436"
+			],
+			"nature": "substantive",
+			"type": "specific",
+			"focus": "law"
+		}, 
+		{
+            "id": 29,
+			"topic": "Whether limitation periods are substantive law for the purpose of a conflict of laws",
+			"relevant": [
+				"[2016] FCAFC 26"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		}, 
+		{
+            "id": 32,
+			"topic": "Whether in a common intention constructive trust the intention must be a continuing one",
+			"relevant": [
+				"[2001] FCA 376"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "fact"
+		}, 
+		{
+            "id": 33,
+			"topic": "Stay of a QCAT order revoking a license",
+			"relevant": [
+				"[2002] QCA 347",
+				"[2008] QCA 322",
+				"[2010] QCA 255",
+				"[2013] QCA 330",
+				"[2017] QCA 104",
+				"[2017] QCA 275",
+				"[2015] QCA 64",
+				"[2014] QCA 178"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "fact"
+		}, 
+		{
+            "id": 34,
+			"topic": "The appropriate test for severance of a joint tenancy",
+			"relevant": [
+				"[2000] QCA 391",
+				"[2015] QCA 245"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		}, 
+		{
+            "id": 35,
+			"topic": "Severance of a joint tenancy by conduct by means of discussions and agreements to sell property held as joint tenants",
+			"relevant": [
+				"[2007] QSC 298"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "fact",
+			"relevant_leg": [{"section": "s 59", "act": "Land Title Act 1994 (Qld)"}]
+		}, 
+		{
+            "id": 37,
+			"topic": "Damages for defamation compensate for, amongst other things, emotional distress",
+			"relevant": [
+				"[2014] QCA 33",
+				"[2016] FCAFC 102"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		}, 
+		{
+            "id": 39,
+			"topic": "omission of equal in dispositive clause providing for division of property in a will",
+			"relevant": [
+				"[2011] QSC 369"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		}, 
+		{
+            "id": 41,
+			"topic": "Liability under contract for breach where performance is subcontracted",
+			"relevant": [
+				"[2006] FCAFC 40"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		}, 
+		{
+            "id": 43,
+			"topic": "equitable jurisidiction to set aside a perfected judgment in criminal case on the basis of fraud",
+			"relevant": [
+				"[2014] QCA 116"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		}, 
+		{
+            "id": 44,
+			"topic": "Admission of fresh or new evidence",
+			"relevant": [
+				"[2005] QCA 229",
+				"[2016] QCA 288"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "law"
+		}, 
+		{
+            "id": 45,
+			"topic": "Obligation of prosecution to investigate as distinct from the obligation to disclose",
+			"relevant": [
+				"[2001] QCA 324",
+				"[2017] QCA 144"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		}, 
+		{
+            "id": 46,
+			"topic": "Whether incompetence of trial counsel is a basis for a criminal appeal",
+			"relevant": [
+				"[2005] QCA 160",
+				"[2009] QCA 62",
+				"[2009] QCA 166",
+				"[2017] QCA 135",
+				"[2014] QCA 322",
+				"[2018] QCA 45",
+				"[2003] QCA 505"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		}, 
+		{
+            "id": 47,
+			"topic": "Relevant considerations for an application for summary judgment in the Federal Court",
+			"relevant": [
+				"[2016] FCA 429",
+				"[2011] FCA 1382",
+				"[2017] FCA 1168"
+			],
+			"type": "broad",
+			"nature": "procedural",
+			"focus": "generic",
+			"relevant_leg": [{"section": "s 31A", "act": "Federal Court of Australia Act 1976 (Cth)"}, {"section": "s 37M", "act": "Federal Court of Australia Act 1976 (Cth)"}]
+		}, 
+		{
+            "id": 49,
+			"topic": "Recovery of costs in estate litigation matters",
+			"relevant": [
+				"[2010] QSC 132",
+				"[2012] QCA  234",
+				"[2012] QSC 369",
+				"[2011] QSC 177",
+				"[2012] QSC 278",
+				"[2010] QSC 177",
+				"[2013] QSC 74",
+				"[2013] QSC 196",
+				"[2014] QSC 175",
+				"[2015] QSC 344",
+				"[2017] QSC 201",
+				"[2013] QCA 169",
+				"[2015] QCA 249"
+			],
+			"type": "broad",
+			"nature": "both",
+			"focus": "generic"
+		}, 
+		{
+            "id": 50,
+			"topic": "Right of first refusal and restraints on alienation",
+			"relevant": [
+				"[2006] QSC 419"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "law"
+		}, 
+		{
+            "id": 53,
+			"topic": "Causation and evidentiary standards",
+			"relevant": [
+				"[2011] FCA 645",
+				"[2012] FCAFC 28",
+				"[2012] FCA 1116",
+				"[2008] QCA 416"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "generic"
+		}, 
+		{
+            "id": 54,
+			"topic": "Expectation losses and misleading or deceptive conduct",
+			"relevant": [
+				"[2006] FCA 1403",
+				"[2008] FCAFC 2"
+			],
+			"type": "specific",
+			"focus": "fact",
+			"nature": "substantive",
+			"relevant_leg": [{"act": "Australian Consumer Law"}, {"act": "Trade Practices Act"}, {"act": "Competition and Consumer Act 2010 (Cth)"}]
+		}, 
+		{
+            "id": 55,
+			"topic": "Redaction of documents for disclosure",
+			"relevant": [
+				"[2013] QSC 82",
+				"[2009] QCA 265"
+			],
+			"type": "specific",
+			"focus": "law",
+			"nature": "procedural",
+			"relevant_leg": [{"section": "r 211", "act": "Uniform Civil Procedure Rules"}, {"section": "r 222", "act": "Uniform Civil Procedure Rules"}]
+		}, 
+		{
+            "id": 57,
+			"topic": "Hypothetical nature of declarations",
+			"relevant": [
+				"[2005] QCA 336",
+				"[2005] QCA 351",
+				"[2012] QCA 353"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "law"
+		}, 
+		{
+            "id": 58,
+			"topic": "Nunc pro tunc",
+			"relevant": [
+				"[2017] QCA 136",
+				"[2017] QCA 127",
+				"[2017] QSC 54",
+				"[2017] QCA 295",
+				"[2016] QSC 224",
+				"[2016] QSC 91",
+				"[2016] QSC 47",
+				"[2016] QCA 123",
+				"[2008] QCA 349",
+				"[2015] QSC 200",
+				"[2015] QSC 149",
+				"[2013] QSC 290",
+				"[2013] QSC 101",
+				"[2012] QCA 259",
+				"[2012] QCA 7",
+				"[2012] QCA 136",
+				"[2011] QCA 197",
+				"[2011] QCA 168",
+				"[2011] QSC 180", 
+				"[2011] QSC 088",
+				"[2010] QSC 362",
+				"[2009] QCA 96",
+				"[2007] QCA 435",
+				"[2007] QCA 367",
+				"[2008] QCA 199",
+				"[2008] QSC 138",
+				"[2007] QCA 185",
+				"[2007] QSC 297",
+				"[2005] QCA 261"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "law"
+		}, 
+		{
+            "id": 59,
+			"topic": "motor vehicle accidents involving caravans",
+			"relevant": [
+				"[2005] QCA 154"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "fact"
+		}, 
+		{
+            "id": 60,
+			"topic": "contributory negligence in motor vehicle accident cases",
+			"relevant": [
+				"[2010] QSC 390",
+				"[2015] QSC 149",
+				"[2011] QSC 88",
+				"[2009] QCA 96",
+				"[2007] QCA 185"
+			],
+			"type": "specific",
+			"focus": "fact",
+			"nature": "substantive",
+			"relevant_leg": [{"section": "s 23", "act": "Civil Liability Act 2003 (Qld)"}, {"section": "s 24", "act": "Civil Liability Act 2003 (Qld)"}]
+		}, 
+		{
+            "id": 61,
+			"topic": "amending pleadings after trial date set down",
+			"relevant": [
+				"[2016] QSC 260",
+				"[2016] QSC 159",
+				"[2016] QCA 16",
+				"[2008] QCA 224",
+				"[2009] QSC 225",
+				"[2009] QSC 417",
+				"[2010] QSC 122",
+				"[2010] QSC 111",
+				"[2011] QSC 42",
+				"[2011] QSC 326",
+				"[2011] QSC 411",
+				"[2010] QSC 419",
+				"[2012] QCA 100",
+				"[2013] QCA 161",
+				"[2007] QSC 140",
+				"[2014] QCA 267",
+				"[2016] QCA 215",
+				"[2002] QCA 225",
+				"[2005] QSC 86",
+				"[2003] QSC 376"
+			],
+			"type": "specific",
+			"focus": "generic",
+			"nature": "procedural",
+			"relevant_leg": [{"section": "r 378", "act": "Uniform Civil Procedure Rules"}, {"section": "r 379", "act": "Uniform Civil Procedure Rules"}, {"section": "r 380", "act": "Uniform Civil Procedure Rules"}, {"section": "r 470", "act": "Uniform Civil Procedure Rules"}]
+		},
+		{
+            "id": 62,
+			"topic": "set off and suspension clauses",
+			"relevant": [
+				"[2011] FCAFC 99",
+				"[2016] QSC 238",
+				"[2010] QSC 272"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 64,
+			"topic": "Non party costs against a party's solicitor",
+			"relevant": [
+				"[2015] QSC 333",
+				"[2000] FCA 674",
+				"[2006] FCA 671",
+				"[2015] QSC 212",
+				"[2013] QSC 30",
+				"[2007] QCA 337",
+				"[2012] QSC 302",
+				"[2007] QCA 240",
+				"[2006] FCAFC 76",
+                "[2015] QDC 293"
+			],
+			"type": "specific",
+			"nature": "both",
+			"focus": "generic"
+		},
+		{
+            "id": 65,
+			"topic": "surrender of an easement",
+			"relevant": [
+				"[2016] QCA 353"
+			],
+			"type": "broad",
+			"focus": "law"
+		},
+		{
+            "id": 67,
+			"topic": "Whether a settlement agreement between a company and some of its directors, binds all directors",
+			"relevant": [
+				"[2005] FCA 933",
+                "[2015] QDC 249"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 69,
+			"topic": "the need to show mismanagement to get damages when pleading breach of fiduciary duties and the remedies available",
+			"relevant": [
+				"[2018] FCAFC 232"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 70,
+			"topic": "Causation and reliance",
+			"relevant": [
+				"[2016] QSC 5",
+				"[2016] QSC 221",
+				"[2017] FCA 1469"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 71,
+			"topic": "judicial review and unreasonableness / intelligible justification",
+			"relevant": [
+				"[2019] FCAFC 7"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 73,
+			"topic": "Sale of land and entitlement of vendor to specific performance",
+			"relevant": [
+				"[2009] QSC 250"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 74,
+			"topic": "Issues with duty to other party where procuring report",
+			"relevant": [
+				"[2016] QSC 92"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 75,
+			"topic": "Malicious prosecution and witness immunity from suit",
+			"relevant": [
+				"[2005] QSC 344",
+				"[2006] QCA 238",
+				"[2009] QCA 355"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 76,
+			"topic": "Ex debito justitiae",
+			"relevant": [
+				"[2012] QSC 143"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 77,
+			"topic": "security for costs and delay",
+			"relevant": [
+				"[2017] FCA 211",
+				"[2011] FCA 1041",
+				"[2016] QSC 2",
+				"[2017] FCA 664"
+			],
+			"type": "specific",
+			"nature": "procedural",
+			"focus": "law",
+			"relevant_leg": [{"section": "ch 17", "act": "Uniform Civil Procedure Rules"}, {"section": "r 670", "act": "Uniform Civil Procedure Rules"}, {"section": "r 672", "act": "Uniform Civil Procedure Rules"}, {"section": "s 56", "act": "Federal Court of Australia Act 1974 (Cth)"}, {"section": "o 28", "act": "Federal Court Rules"}]
+		},
+		{
+            "id": 78,
+			"topic": "success in seeking security for costs where there has been a delay",
+			"relevant": [
+				"[2017] FCA 211",
+				"[2011] FCA 1041",
+				"[2016] QSC 2"
+			],
+			"type": "specific",
+			"focus": "fact",
+			"nature": "procedural",
+			"relevant_leg": [{"section": "ch 17", "act": "Uniform Civil Procedure Rules"}, {"section": "r 670", "act": "Uniform Civil Procedure Rules"}, {"section": "r 672", "act": "Uniform Civil Procedure Rules"}, {"section": "s 56", "act": "Federal Court of Australia Act 1974 (Cth)"}, {"section": "o 28", "act": "Federal Court Rules"}]
+		},
+		{
+            "id": 80,
+			"topic": "whether administration validly entered into or entered into under improper purpose",
+			"relevant": [
+				"[2016] FCA 42",
+				"[2008] QSC 239",
+				"[2016] FCA 474"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "fact"
+		},
+		{
+            "id": 81,
+			"topic": "Construction of broad definition clauses in professional indemnity insurance policies",
+			"relevant": [
+				"[2015] QCA 267",
+				"[2017] QCA 202",
+				"[2017] QSC 142"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 82,
+			"topic": "meaning of dispute",
+			"relevant": [
+				"[2002] QCA 119",
+				"[2005] QSC 323",
+				"[2004] FCAFC 317"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 83,
+			"topic": "meaning justiciable controversy",
+			"relevant": [
+				"[2003] FCA 1095"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 84,
+			"topic": "defintion of a mortgage",
+			"relevant": [
+				"[2007] QCA 314"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 85,
+			"topic": "Discretion as to costs",
+			"relevant": [
+				"[2002] QSC 297",
+				"[2016] QCA 199"
+			],
+			"type": "broad",
+			"nature": "procedural",
+			"focus": "law"
+		},
+		{
+            "id": 86,
+			"topic": "where a document specifies the costs that a party may claim from another, is the Court bound to follow the document, or can it fix costs in its own discretion? ",
+			"relevant": [
+				"[2013] QCA 284",
+				"[2015] FCAFC 127",
+				"[2013] QCA 84",
+				"[2004] QCA 47",
+				"[2011] QCA 229",
+				"[2015] QCA 95",
+				"[2014] QSC 318"
+			],
+			"type": "specific",
+			"nature": "procedural",
+			"focus": "fact",
+			"relevant_leg": [{"section": "r 680", "act": "Uniform Civil Procedure Rules"}, {"section": "r 681", "act": "Uniform Civil Procedure Rules"}, {"section": "r 702", "act": "Uniform Civil Procedure Rules"}]
+		},
+		{
+            "id": 87,
+			"topic": "where a party may be subject to an indemnity costs order for their conduct, how does this intersect with a contractual entitlement to indemnity costs",
+			"relevant": [
+				"[2013] QCA 284"
+			],
+			"type": "specific",
+			"focus": "fact",
+			"nature": "procedural",
+			"relevant_leg": [{"section": "r 680", "act": "Uniform Civil Procedure Rules"}, {"section": "r 681", "act": "Uniform Civil Procedure Rules"}, {"section": "r 702", "act": "Uniform Civil Procedure Rules"}]
+		},
+		{
+            "id": 88,
+			"topic": "Doctrine of ultimate effect",
+			"relevant": [
+				"[2007] FCAFC 185",
+				"[2012] FCAFC 124",
+				"[2006] QCA 52",
+				"[2009] FCA 893"
+			],
+			"type": "broad",
+			"focus": "law",
+			"nature": "substantive",
+			"relevant_leg": [{"section": "s 588FA", "act": "Corporations Act 2001 (Cth)"}, {"section": "pt 5.7B", "act": "Corporations Act 2001 (Cth)"}, {"section": "div 2", "act": "Corporations Act 2001 (Cth)"}]
+		},
+		{
+            "id": 89,
+			"topic": "Meaning of transaction in the doctrine of ultimate effect",
+			"relevant": [
+				"[2009] QCA 180",
+				"[2015] FCA 637",
+				"[2007] FCAFC 185"
+			],
+			"type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"relevant_leg": [{"section": "s 588FA", "act": "Corporations Act 2001 (Cth)"}, {"section": "pt 5.7B", "act": "Corporations Act 2001 (Cth)"}, {"section": "div 2", "act": "Corporations Act 2001 (Cth)"}]
+		},
+		{
+            "id": 90,
+			"topic": "meaning of debt",
+			"relevant": [
+				"[2009] QCA 180",
+				"[2005] QCA 224"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 91,
+			"topic": "Concurrent expert evidence",
+			"relevant": [
+				"[2010] FCA 240"
+			],
+			"type": "broad",
+			"nature": "both",
+			"focus": "law"
+		},
+		{
+            "id": 93,
+			"topic": "Contract and intention to create legal relations",
+			"relevant": [
+				"[2008] QSC 244",
+				"[2012] FCAFC 81"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 94,
+			"topic": "Whether a presumption exists against the creation of legal relations in family relationships",
+			"relevant": [
+				"[2012] FCAFC 81"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 95,
+			"topic": "liquidator impartiality",
+			"relevant": [
+				"[2016] FCA 16",
+				"[2005] FCA 650",
+				"[2014] FCAFC 85",
+				"[2015] QSC 347",
+				"[2015] FCA 1448"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 96,
+			"topic": "Litigation guardians",
+			"relevant": [
+				"[2000] QSC 314",
+				"[2006] FCAFC 114",
+				"[2007] QSC 265"
+			],
+			"type": "broad",
+			"focus": "law",
+			"nature": "procedural",
+			"relevant_leg": [{"section": "r 93", "act": "Uniform Civil Procedure Rules 1999 (Qld)"}, {"section": "r 94", "act": "Uniform Civil Procedure Rules 1999 (Qld)"}, {"section": "r 95", "act": "Uniform Civil Procedure Rules 1999 (Qld)"}, {"section": "r 11.08", "act": "Federal Circuit Court Rules 2001 (Cth)"}, {"section": "r 11.09", "act": "Federal Circuit Court Rules 2001 (Cth)"}, {"section": "r 11.10", "act": "Federal Circuit Court Rules 2001 (Cth)"}, {"section": "r 11.11", "act": "Federal Circuit Court Rules 2001 (Cth)"}, {"section": "r 9.61", "act": "Federal Court Rules 2011 (Cth)"}, {"section": "r 9.62", "act": "Federal Court Rules 2011 (Cth)"}, {"section": "r 9.63", "act": "Federal Court Rules 2011 (Cth)"}, {"section": "o 43", "act": "Federal Court Rules"}]
+		},
+		{
+            "id": 97,
+			"topic": "Removal of a litigation guardian",
+			"relevant": [
+				"[2009] QCA 101"
+			],
+			"type": "specific",
+			"focus": "law",
+			"nature": "procedural",
+			"relevant_leg": [{"section": "r 95", "act": "Uniform Civil Procedure Rules 1999 (Qld)"}, {"section": "r 11.11", "act": "Federal Circuit Court Rules 2001 (Cth)"}, {"section": "r 9.65", "act": "Federal Court Rules 2011 (Cth)"}]
+		},
+		{
+            "id": 98,
+			"topic": "defamation pleading of publication and context",
+			"relevant": [
+				"[2004] QCA 319"
+			],
+			"type": "specific",
+			"nature": "both",
+			"focus": "law"
+		},
+		{
+            "id": 99,
+			"topic": "defamation republication",
+			"relevant": [
+				"[2004] QCA 181"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 101,
+			"topic": "reasonableness of reliance for misleading or deceptive conduct",
+			"relevant": [
+				"[2016] FCA 196",
+				"[2012] QSC 157",
+				"[2017] FCA 1",
+				"[2014] FCA 97",
+				"[2014] FCAFC 65",
+				"[2012] FCAFC 122"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 102,
+			"topic": "Equitable set off",
+			"relevant": [
+				"[2008] QCA 103",
+				"[2011] QCA 105",
+				"[2007] QCA 141",
+				"[2011] FCAFC 99"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 103,
+			"topic": "stay of actions during bankruptcy",
+			"relevant": [
+				"[2007] QSC 160"
+			],
+			"type": "broad",
+			"nature": "both",
+			"focus": "law",
+			"relevant_leg": [{"section": "s 60", "act": "Bankruptcy Act 1966 (Cth)"}]
+		},
+		{
+            "id": 104,
+			"topic": "staying proceedings commenced by a person who subsequently becomes bankrupt",
+			"relevant": [
+				"[2008] FCAFC 172"
+			],
+			"type": "specific",
+			"nature": "both",
+			"focus": "law",
+			"relevant_leg": [{"section": "s 60", "act": "Bankruptcy Act 1966 (Cth)"}]
+		},
+		{
+            "id": 105,
+			"topic": "what amounts to a genuine commercial interest such that the assignment of a right to litigate is not a bare right to litigate",
+			"relevant": [
+				"[2011] FCA 898"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 107,
+			"topic": "unclean hands and immediate and necessary connection",
+			"relevant": [
+				"[2003] QCA 146",
+				"2014] QSC 287"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 108,
+			"topic": "To what extent will a party’s participation in conduct of the other party that is the basis of the defence of unclean hands disentitle that party from relying upon the defence",
+			"relevant": [
+				"[2012] QCA 119",
+				"[2014] FCA 724"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "fact"
+		},
+        {
+            "id": 109,
+            "topic": "Where a party in a without prejudice situation puts forward a situation that is different to the basis of their claim or defence can that contradictory situation be put to the witness",
+            "relevant": [
+                "[2014] QDC 95",
+                "[2019] FCA 1641"
+            ],
+            "type": "specific",
+            "nature": "substantive",
+			"focus": "fact"
+        },
+        {
+            "id": 110,
+            "topic": "Where an insured settles a claim against it, what does it have to do to establish the settlement was reasonable in a third party claim against its insurer that denied the indemnity",
+            "relevant": [
+                "[2004] FCA 1330",
+                "[2002] QCA 256",
+                "[2017] QSC 115"
+            ],
+            "type": "specific",
+            "nature": "substantive",
+			"focus": "law"
+        },
+        {
+            "id": 111,
+            "topic": "Whether a subsequent offer letter not marked without prejudice is privileged as being without prejudice",
+            "relevant": [
+                "[2011] FCA 1282"
+            ],
+            "type": "specific",
+            "nature": "substantive",
+			"focus": "law"
+        },
+        {
+            "id": 112,
+            "topic": "can a party appeal a decision where they filed an appearance but took no active role in the proceedings",
+            "relevant": [
+                "[2012] QCA 314"
+            ],
+            "type": "specific",
+            "nature": "procedural",
+			"focus": "law"
+        },
+        {
+            "id": 113,
+            "topic": "where a joint venture company has a receiver appointed pursuant to a security and other assets of the company would satisfy the security, can another funder seek access to an asset",
+            "relevant": [
+                "[2015] QSC 96"
+            ],
+            "type": "specific",
+            "nature": "substantive",
+			"focus": "law"
+        },
+        {
+            "id": 114,
+            "topic": "injuries to children in foster care",
+            "relevant": [
+                "[2009] QSC 278",
+                "[2008] QDC 223"
+            ],
+            "type": "specific",
+            "nature": "substantive",
+			"focus": "fact"
+        },
+        {
+            "id": 115,
+            "topic": "is privilege waived by a client that seeks an order that their former laywer should pay costs?",
+            "relevant": [
+                "[2018] NSWCA 49",
+                "[2005] NSWCA 153"
+            ],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+        },
+        {
+            "id": 116,
+            "topic": "the effect of death of a party on a cause of action and costs orders",
+            "relevant": [
+                "[2013] QDC 119",
+                "[2013] NSWSC 308",
+                "[2016] NSWSC 257",
+                "[2001] FCA 1769",
+                "[2008] NSWSC 1200"
+            ],
+            "type": "specific",
+            "nature": "both",
+			"focus": "law"
+        },
+        {
+            "id": 117,
+            "topic": "motor vehicle accidents involving motorcycles",
+            "relevant": [
+                "[2017] QCA 136",
+                "[2017] QCA 127",
+                "[2016] QSC 224",
+                "[2016] QSC 91",
+                "[2016] QSC 47",
+                "[2016] QCA 123",
+                "[2008] QCA 349",
+                "[2015] QSC 200",
+                "[2015] QSC 149",
+                "[2014] QDC 41",
+                "[2013] QSC 290",
+                "[2013] QSC 101",
+                "[2012] QCA 259",
+                "[2012] QCA 7",
+                "[2012] QCA 136",
+                "[2011] QCA 197",
+                "[2011] QCA 168",
+                "[2011] QSC 180",
+                "[2011] QSC 088",
+                "[2010] QSC 362",
+                "[2009] QCA 96",
+                "[2007] QCA 435",
+                "[2007] QCA 367",
+                "[2008] QCA 199",
+                "[2008] QSC 138",
+                "[2007] QCA 185",
+                "[2007] QSC 297",
+                "[2005] QCA 261"
+            ],
+            "type": "specific",
+            "nature": "substantive",
+			"focus": "fact"
+        },
+        {
+            "id": 118,
+            "topic": "Sale of land specific performance and adequacy of damages",
+            "relevant": [
+                "[2005] QDC 429"
+            ],
+            "type": "specific",
+            "nature": "substantive",
+			"focus": "law"
+        }
+	]
+}

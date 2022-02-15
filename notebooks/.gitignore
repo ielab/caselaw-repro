@@ -1,0 +1,7 @@
+*.png
+*.jpg
+*.pdf
+*.run
+*.txt
+*.json
+.DS_store

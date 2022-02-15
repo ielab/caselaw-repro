@@ -1,0 +1,19 @@
+{
+  "runs": [
+    {
+      "term_scoring_type": "dirichlet_prior",
+      "scoring_method_type": "tlm",
+      "name_format": "%s-%s-tlm-dir-mu-%.2f-neighbours-%1.f",
+      "t_param": ["mu"],
+      "t_start": [1050],
+      "t_end": [1050],
+      "t_increment": [1],
+      "m_param": ["neighbours"],
+      "m_start": [1],
+      "m_end": [20],
+      "m_increment": [1],
+      "folder_name": "tlm",
+      "stopwords": []
+    }
+  ]
+}

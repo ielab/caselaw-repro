@@ -1,0 +1,19 @@
+{
+  "runs": [
+    {
+      "term_scoring_type": "dirichlet_prior",
+      "scoring_method_type": "sdm_rerank",
+      "name_format": "%s-sdm_rerank-smooth-dir-mu-%.2f-weights-%.2f-%.2f-%.2f-window-%1.f",
+      "t_param": ["mu"],
+      "t_start": [1050],
+      "t_end": [1050],
+      "t_increment": [1],
+      "m_param": ["weights", "window_span", "sdm", "smooth"],
+      "m_start": [1, 8, 1, 1],
+      "m_end": [1, 8, 1, 1],
+      "m_increment": [1, 1, 1, 1],
+      "folder_name": "sdm_rerank",
+      "stopwords": []
+    }
+  ]
+}

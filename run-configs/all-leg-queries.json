@@ -1,0 +1,548 @@
+{
+	"topics": [
+		{
+            "id": 1,
+			"topic": "What is the effect of reinstating a company that was in liquidation as regards money that may be recovered?",
+			"relevant": [
+				"[2018] FCA 884"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law",
+			"relevant_leg": [{"section": "s 601AH", "act": "Corporations Act 2001 (Cth)"}]
+		},
+		{
+            "id": 2,
+			"topic": "Is the variation of the date for settlement required to be in writing?",
+			"relevant": [
+				"[2008] QSC 326",
+				"[2003] QCA 541"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law",
+			"relevant_leg": [{"section": "s 59", "act": "Property Law Act 1974 (Qld)"}, {"section": "s 11", "act": "Property Law Act 1974 (Qld)"}]
+		},
+		{
+            "id": 9,
+			"topic": "In trade or commerce",
+			"relevant": [
+				"[2002] FCA 860",
+				"[2005] FCA 1307",
+				"[2004] FCAFC 240"
+			],
+			"type": "broad",
+			"focus": "law",
+			"nature": "substantive",
+			"relevant_leg": [{"act": "Trade Practices Act 1974 (Cth)"}, {"act": "Competition and Consumer Act 2010 (Cth)"}, {"act": "Australian Consumer Law"}]
+		},
+		{
+            "id": 10,
+			"topic": "Whether membership of an organisation is in trade or commerce",
+			"relevant": [
+				"[2008] FCAFC 72",
+				"[2002] FCAFC 197",
+				"[2001] FCA 1106"
+			],
+			"type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"relevant_leg": [{"act": "Trade Practices Act 1974 (Cth)"}, {"act": "Competition and Consumer Act 2010 (Cth)"}, {"act": "Australian Consumer Law"}]
+		},
+		{
+            "id": 17,
+			"topic": "Postponing the giving of particulars of a claim until after discovery",
+			"relevant": [
+				"[2016] QSC 87"
+			],
+			"type": "specific",
+			"nature": "procedural",
+			"focus": "fact",
+			"relevant_leg": [{"section": "r 157", "act": "Uniform Civil Procedure Rules 1999 (Qld)"}, {"section": "r 16.41", "act": "Federal Court Rules 2011 (Cth)"}, {"section": "r 16.45", "act": "Federal Court Rules 2011 (Cth)"}, {"section": "o 12", "act": "Federal Court Rules 1979 (Cth)"}]
+		},
+		{
+            "id": 35,
+			"topic": "Severance of a joint tenancy by conduct by means of discussions and agreements to sell property held as joint tenants",
+			"relevant": [
+				"[2007] QSC 298"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "fact",
+			"relevant_leg": [{"section": "s 59", "act": "Land Title Act 1994 (Qld)"}]
+		}, 
+		{
+            "id": 47,
+			"topic": "Relevant considerations for an application for summary judgment in the Federal Court",
+			"relevant": [
+				"[2016] FCA 429",
+				"[2011] FCA 1382",
+				"[2017] FCA 1168"
+			],
+			"type": "broad",
+			"nature": "procedural",
+			"focus": "generic",
+			"relevant_leg": [{"section": "s 31A", "act": "Federal Court of Australia Act 1976 (Cth)"}, {"section": "s 37M", "act": "Federal Court of Australia Act 1976 (Cth)"}]
+		}, 
+		{
+            "id": 54,
+			"topic": "Expectation losses and misleading or deceptive conduct",
+			"relevant": [
+				"[2006] FCA 1403",
+				"[2008] FCAFC 2"
+			],
+			"type": "specific",
+			"focus": "fact",
+			"nature": "substantive",
+			"relevant_leg": [{"act": "Australian Consumer Law"}, {"act": "Trade Practices Act"}, {"act": "Competition and Consumer Act 2010 (Cth)"}]
+		}, 
+		{
+            "id": 55,
+			"topic": "Redaction of documents for disclosure",
+			"relevant": [
+				"[2013] QSC 82",
+				"[2009] QCA 265"
+			],
+			"type": "specific",
+			"focus": "law",
+			"nature": "procedural",
+			"relevant_leg": [{"section": "r 211", "act": "Uniform Civil Procedure Rules"}, {"section": "r 222", "act": "Uniform Civil Procedure Rules"}]
+		}, 
+		{
+            "id": 60,
+			"topic": "contributory negligence in motor vehicle accident cases",
+			"relevant": [
+				"[2010] QSC 390",
+				"[2015] QSC 149",
+				"[2011] QSC 88",
+				"[2009] QCA 96",
+				"[2007] QCA 185"
+			],
+			"type": "specific",
+			"focus": "fact",
+			"nature": "substantive",
+			"relevant_leg": [{"section": "s 23", "act": "Civil Liability Act 2003 (Qld)"}, {"section": "s 24", "act": "Civil Liability Act 2003 (Qld)"}]
+		}, 
+		{
+            "id": 61,
+			"topic": "amending pleadings after trial date set down",
+			"relevant": [
+				"[2016] QSC 260",
+				"[2016] QSC 159",
+				"[2016] QCA 16",
+				"[2008] QCA 224",
+				"[2009] QSC 225",
+				"[2009] QSC 417",
+				"[2010] QSC 122",
+				"[2010] QSC 111",
+				"[2011] QSC 42",
+				"[2011] QSC 326",
+				"[2011] QSC 411",
+				"[2010] QSC 419",
+				"[2012] QCA 100",
+				"[2013] QCA 161",
+				"[2007] QSC 140",
+				"[2014] QCA 267",
+				"[2016] QCA 215",
+				"[2002] QCA 225",
+				"[2005] QSC 86",
+				"[2003] QSC 376"
+			],
+			"type": "specific",
+			"focus": "generic",
+			"nature": "procedural",
+			"relevant_leg": [{"section": "r 378", "act": "Uniform Civil Procedure Rules"}, {"section": "r 379", "act": "Uniform Civil Procedure Rules"}, {"section": "r 380", "act": "Uniform Civil Procedure Rules"}, {"section": "r 470", "act": "Uniform Civil Procedure Rules"}]
+		},
+		{
+            "id": 77,
+			"topic": "security for costs and delay",
+			"relevant": [
+				"[2017] FCA 211",
+				"[2011] FCA 1041",
+				"[2016] QSC 2",
+				"[2017] FCA 664"
+			],
+			"type": "specific",
+			"nature": "procedural",
+			"focus": "law",
+			"relevant_leg": [{"section": "ch 17", "act": "Uniform Civil Procedure Rules"}, {"section": "r 670", "act": "Uniform Civil Procedure Rules"}, {"section": "r 672", "act": "Uniform Civil Procedure Rules"}, {"section": "s 56", "act": "Federal Court of Australia Act 1974 (Cth)"}, {"section": "o 28", "act": "Federal Court Rules"}]
+		},
+		{
+            "id": 78,
+			"topic": "success in seeking security for costs where there has been a delay",
+			"relevant": [
+				"[2017] FCA 211",
+				"[2011] FCA 1041",
+				"[2016] QSC 2"
+			],
+			"type": "specific",
+			"focus": "fact",
+			"nature": "procedural",
+			"relevant_leg": [{"section": "ch 17", "act": "Uniform Civil Procedure Rules"}, {"section": "r 670", "act": "Uniform Civil Procedure Rules"}, {"section": "r 672", "act": "Uniform Civil Procedure Rules"}, {"section": "s 56", "act": "Federal Court of Australia Act 1974 (Cth)"}, {"section": "o 28", "act": "Federal Court Rules"}]
+		},
+		{
+            "id": 86,
+			"topic": "where a document specifies the costs that a party may claim from another, is the Court bound to follow the document, or can it fix costs in its own discretion? ",
+			"relevant": [
+				"[2013] QCA 284",
+				"[2015] FCAFC 127",
+				"[2013] QCA 84",
+				"[2004] QCA 47",
+				"[2011] QCA 229",
+				"[2015] QCA 95",
+				"[2014] QSC 318"
+			],
+			"type": "specific",
+			"nature": "procedural",
+			"focus": "fact",
+			"relevant_leg": [{"section": "r 680", "act": "Uniform Civil Procedure Rules"}, {"section": "r 681", "act": "Uniform Civil Procedure Rules"}, {"section": "r 702", "act": "Uniform Civil Procedure Rules"}]
+		},
+		{
+            "id": 87,
+			"topic": "where a party may be subject to an indemnity costs order for their conduct, how does this intersect with a contractual entitlement to indemnity costs",
+			"relevant": [
+				"[2013] QCA 284"
+			],
+			"type": "specific",
+			"focus": "fact",
+			"nature": "procedural",
+			"relevant_leg": [{"section": "r 680", "act": "Uniform Civil Procedure Rules"}, {"section": "r 681", "act": "Uniform Civil Procedure Rules"}, {"section": "r 702", "act": "Uniform Civil Procedure Rules"}]
+		},
+		{
+            "id": 88,
+			"topic": "Doctrine of ultimate effect",
+			"relevant": [
+				"[2007] FCAFC 185",
+				"[2012] FCAFC 124",
+				"[2006] QCA 52",
+				"[2009] FCA 893"
+			],
+			"type": "broad",
+			"focus": "law",
+			"nature": "substantive",
+			"relevant_leg": [{"section": "s 588FA", "act": "Corporations Act 2001 (Cth)"}, {"section": "pt 5.7B", "act": "Corporations Act 2001 (Cth)"}, {"section": "div 2", "act": "Corporations Act 2001 (Cth)"}]
+		},
+		{
+            "id": 89,
+			"topic": "Meaning of transaction in the doctrine of ultimate effect",
+			"relevant": [
+				"[2009] QCA 180",
+				"[2015] FCA 637",
+				"[2007] FCAFC 185"
+			],
+			"type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"relevant_leg": [{"section": "s 588FA", "act": "Corporations Act 2001 (Cth)"}, {"section": "pt 5.7B", "act": "Corporations Act 2001 (Cth)"}, {"section": "div 2", "act": "Corporations Act 2001 (Cth)"}]
+		},
+		{
+            "id": 96,
+			"topic": "Litigation guardians",
+			"relevant": [
+				"[2000] QSC 314",
+				"[2006] FCAFC 114",
+				"[2007] QSC 265"
+			],
+			"type": "broad",
+			"focus": "law",
+			"nature": "procedural",
+			"relevant_leg": [{"section": "r 93", "act": "Uniform Civil Procedure Rules 1999 (Qld)"}, {"section": "r 94", "act": "Uniform Civil Procedure Rules 1999 (Qld)"}, {"section": "r 95", "act": "Uniform Civil Procedure Rules 1999 (Qld)"}, {"section": "r 11.08", "act": "Federal Circuit Court Rules 2001 (Cth)"}, {"section": "r 11.09", "act": "Federal Circuit Court Rules 2001 (Cth)"}, {"section": "r 11.10", "act": "Federal Circuit Court Rules 2001 (Cth)"}, {"section": "r 11.11", "act": "Federal Circuit Court Rules 2001 (Cth)"}, {"section": "r 9.61", "act": "Federal Court Rules 2011 (Cth)"}, {"section": "r 9.62", "act": "Federal Court Rules 2011 (Cth)"}, {"section": "r 9.63", "act": "Federal Court Rules 2011 (Cth)"}, {"section": "o 43", "act": "Federal Court Rules"}]
+		},
+		{
+            "id": 97,
+			"topic": "Removal of a litigation guardian",
+			"relevant": [
+				"[2009] QCA 101"
+			],
+			"type": "specific",
+			"focus": "law",
+			"nature": "procedural",
+			"relevant_leg": [{"section": "r 95", "act": "Uniform Civil Procedure Rules 1999 (Qld)"}, {"section": "r 11.11", "act": "Federal Circuit Court Rules 2001 (Cth)"}, {"section": "r 9.65", "act": "Federal Court Rules 2011 (Cth)"}]
+		},
+		{
+            "id": 103,
+			"topic": "stay of actions during bankruptcy",
+			"relevant": [
+				"[2007] QSC 160"
+			],
+			"type": "broad",
+			"nature": "both",
+			"focus": "law",
+			"relevant_leg": [{"section": "s 60", "act": "Bankruptcy Act 1966 (Cth)"}]
+		},
+		{
+            "id": 104,
+			"topic": "staying proceedings commenced by a person who subsequently becomes bankrupt",
+			"relevant": [
+				"[2008] FCAFC 172"
+			],
+			"type": "specific",
+			"nature": "both",
+			"focus": "law",
+			"relevant_leg": [{"section": "s 60", "act": "Bankruptcy Act 1966 (Cth)"}]
+		},
+		{
+            "id": 14,
+			"topic": "Consideration of s 636 Sustainable Planning Act",
+			"relevant": [
+				"[2016] QCA 19"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "636", "act": "Sustainable Planning Act"}],
+			"focus": "law"
+		},
+		{
+            "id": 16,
+			"topic": "Consideration of the power to make practice directions under s 17 Supreme Court of Queensland Act 1991",
+			"relevant": [
+				"[2016] QCA 253",
+				"[2005] QSC 110",
+				"[2008] QCA 109"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "17", "act": "Supreme Court of Queensland Act 1991"}],
+			"focus": "law"
+		},
+		{
+            "id": 18,
+			"topic": "Sustainable Planning Act s 478 appeals and de novo merits review",
+			"relevant": [
+				"[2014] QCA 165"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "478", "act": "Sustainable Planning Act"}],
+			"focus": "law"
+		},
+		{
+            "id": 20,
+			"topic": "Substitution of a creditor and s 465B Corporations Act",
+			"relevant": [
+				"[2011] FCA 683",
+				"[2017] FCA 89"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "465B", "act": "Corporations Act"}],
+			"focus": "law"
+		},
+		{
+            "id": 26,
+			"topic": "Corporations Act s 198F director party to litigation",
+			"relevant": [
+				"[2001] FCA 1846",
+				"[2009] QSC 184",
+				"[2014] FCA 743"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "198F", "act": "Corporations Act"}],
+			"focus": "law"
+		}, 
+		{
+            "id": 30,
+			"topic": "s 459S Corporations Act application for leave",
+			"relevant": [
+				"[2018] FCA 1134",
+				"[2016] FCA 1424"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "459S", "act": "Corporations Act"}],
+			"focus": "law"
+		}, 
+		{
+            "id": 31,
+			"topic": "limits of the scope of s 945A Corporations Act as to having a reasonable basis for advice provided to a client",
+			"relevant": [
+				"[2016] FCA 1023",
+				"[2013] FCA 348",
+				"[2015] FCAFC 8"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "945A", "act": "Corporations Act"}],
+			"focus": "fact"
+		}, 
+		{
+            "id": 36,
+			"topic": "Oppressive dealings under the Corporations Act",
+			"relevant": [
+				"[2017] FCAFC 40",
+				"[2015] FCA 1176",
+				"[2018] QCA 48"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "generic"
+		}, 
+		{
+            "id": 38,
+			"topic": "Indicia of a franchise and Schedule 1 cl 5 Competition and Consumer (Industry Codes - Franchising) Regulation 2014",
+			"relevant": [
+				"[2004] FCA 808",
+				"[2007] FCA 1522"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "5", "act": "Competition and Consumer (Industry Codes - Franchising) Reg 2014"}],
+			"focus": "law"
+		}, 
+		{
+            "id": 40,
+			"topic": "s 30 Civil Liability Act and whether parties are independent",
+			"relevant": [
+				"[2012] QCA 315",
+				"[2014] QCA 177"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "30", "act": "Civil Liability Act"}],
+			"focus": "fact"
+		}, 
+		{
+            "id": 42,
+			"topic": "Successive appeals s 668D Criminal Code",
+			"relevant": [
+				"[2009] QCA 172",
+				"[2013] QCA 76",
+				"[2013] QCA 149",
+				"[2017] QCA 197",
+				"[2007] QCA 40"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "668D", "act": "Criminal Code"}],
+			"focus": "law"
+		}, 
+		{
+            "id": 48,
+			"topic": "Principles applicable to determining insolvency under s 95A Corporations Act",
+			"relevant": [
+				"[2016] QCA 304",
+				"[2008] QCA 94",
+				"[2013] QCA 37"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "95A", "act": "Corporations Act"}],
+			"focus": "law"
+		}, 
+		{
+            "id": 51,
+			"topic": "remittal of a matter to the same magistrate under s 118 District Court of Queensland Act",
+			"relevant": [
+				"[2016] QCA 46",
+				"[2012] QCA 88",
+				"[2002] QCA 353",
+                "[2016] QDC 277"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "118", "act": "District Court of Queensland Act"}],
+			"focus": "law"
+		}, 
+		{
+            "id": 56,
+			"topic": "Interoperability of ss 478 and 495 Sustainable Planning Act",
+			"relevant": [
+				"[2014] QCA 165"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "478", "act": "Sustainable Planning Act"}, {"section": "495", "act": "Sustainable Planning Act"}],
+			"focus": "law"
+		}, 
+		{
+            "id": 63,
+			"topic": "can development prospects be take into account under s 181(1)(b) Property Law Act",
+			"relevant": [
+				"[2008] QSC 226"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "181", "sub": "(1)(b)", "act": "Property Law Act"}],
+			"focus": "law"
+		},
+		{
+            "id": 66,
+			"topic": "statutory right of user and s 180 Property Law Act",
+			"relevant": [
+				"[2015] QSC 137",
+				"[2013] QSC 21",
+				"[2006] QSC 349",
+				"[2016] QCA 20",
+				"[2005] QSC 112"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "180", "act": "Property Law Act"}],
+			"focus": "law"
+		},
+		{
+            "id": 72,
+			"topic": "UCPR rule 171",
+			"relevant": [
+				"[2014] QSC 205",
+				"[2011] QCA 53",
+				"[2016] QSC 92",
+				"[2017] QSC 75",
+				"[2018] FCA 357"
+			],
+			"type": "broad",
+			"nature": "procedural",
+			"focus": "law"
+		},
+		{
+            "id": 79,
+			"topic": "meaning of personal representative for transfer of shares on death as replaceable rule Corporations Act s 1091AA",
+			"relevant": [
+				"[2004] FCA 1009"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "1091AA", "act": "Corporations Act"}],
+			"focus": "law"
+		},
+		{
+            "id": 92,
+			"topic": "s 58 Civil Proceedings Act and interest",
+			"relevant": [
+				"[2011] QSC 307",
+				"[2016] QCA 158",
+				"[2001] QCA 191",
+				"[2009] QCA 75",
+				"[2012] QSC 127",
+				"[2014] QSC 167"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "58", "act": "Civil Proceedings Act"}],
+			"focus": "law"
+		},
+		{
+            "id": 106,
+			"topic": "assignments of rights to litigate under the Trade Practices Act or Competition and Consumer Act",
+			"relevant": [
+				"[2006] FCA 1352",
+				"[2016] QSC 242",
+				"[2014] FCA 347"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 119,
+            "topic": "whether s 421 of the Environmental Protection Act 1994 confers a right to rescind, or an actionable right to damages",
+            "relevant": [
+            ],
+            "type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "421", "act": "Environmental Protection Act 1994"}]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "runs": [
+    {
+      "term_scoring_type": "dirichlet_prior",
+      "scoring_method_type": "plm",
+      "name_format":"%s-plm-dir-mu-%.2f-sigma-%.2f",
+      "t_param": ["mu"],
+      "t_start": [2400],
+      "t_end": [2400],
+      "t_increment": [1],
+      "m_param": ["sigma"],
+      "m_start": [25],
+      "m_end": [300],
+      "m_increment": [25],
+      "folder_name": "plm",
+      "stopwords": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "runs": [
+    {
+      "term_scoring_type": "bm25",
+      "scoring_method_type": "unigram",
+      "name_format": "%s-unigram_bm25_k1_%.2f_b_%.2f", 
+      "t_param": ["k1", "b"],
+      "t_start": [1.2, 0.05],
+      "t_end": [3.0, 1.0],
+      "t_increment": [0.05, 0.05],
+      "m_param": [""],
+      "m_start": [1],
+      "m_end": [1],
+      "m_increment": [1],
+      "folder_name": "bm25",
+      "stopwords": []
+    }
+  ]
+}

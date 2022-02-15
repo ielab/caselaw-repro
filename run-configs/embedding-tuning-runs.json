@@ -1,0 +1,79 @@
+{
+  "runs": [
+    {
+      "term_scoring_type": "dirichlet_prior",
+      "scoring_method_type": "sum_expansion",
+      "name_format": "%s-%s-sum-dir-mu-%.2f-neighbours-%1.f",
+      "t_param": ["mu"],
+      "t_start": [1050],
+      "t_end": [1050],
+      "t_increment": [1],
+      "m_param": ["neighbours"],
+      "m_start": [20],
+      "m_end": [21],
+      "m_increment": [1],
+      "folder_name": "",
+      "stopwords": []
+    },
+    {
+      "term_scoring_type": "dirichlet_prior",
+      "scoring_method_type": "max_expansion",
+      "name_format": "%s-%s-max-dir-mu-%.2f-neighbours-%1.f",
+      "t_param": ["mu"],
+      "t_start": [1050],
+      "t_end": [1050],
+      "t_increment": [1],
+      "m_param": ["neighbours"],
+      "m_start": [20],
+      "m_end": [21],
+      "m_increment": [1],
+      "folder_name": "",
+      "stopwords": []
+    },
+    {
+      "term_scoring_type": "dirichlet_prior",
+      "scoring_method_type": "mnz_expansion",
+      "name_format": "%s-%s-mnz-dir-mu-%.2f-neighbours-%1.f",
+      "t_param": ["mu"],
+      "t_start": [1050],
+      "t_end": [1050],
+      "t_increment": [1],
+      "m_param": ["neighbours"],
+      "m_start": [20],
+      "m_end": [21],
+      "m_increment": [1],
+      "folder_name": "",
+      "stopwords": []
+    },
+    {
+      "term_scoring_type": "dirichlet_prior",
+      "scoring_method_type": "centroid",
+      "name_format": "%s-%s-centroid-dir-mu-%.2f-neighbours-%1.f",
+      "t_param": ["mu"],
+      "t_start": [1050],
+      "t_end": [1050],
+      "t_increment": [1],
+      "m_param": ["neighbours"],
+      "m_start": [20],
+      "m_end": [21],
+      "m_increment": [1],
+      "folder_name": "",
+      "stopwords": []
+    },
+    {
+      "term_scoring_type": "dirichlet_prior",
+      "scoring_method_type": "tlm",
+      "name_format": "%s-%s-tlm-dir-mu-%.2f-neighbours-%1.f",
+      "t_param": ["mu"],
+      "t_start": [1050],
+      "t_end": [1050],
+      "t_increment": [1],
+      "m_param": ["neighbours"],
+      "m_start": [20],
+      "m_end": [21],
+      "m_increment": [1],
+      "folder_name": "",
+      "stopwords": []
+    }
+  ]
+}

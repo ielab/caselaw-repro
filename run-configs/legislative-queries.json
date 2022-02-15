@@ -1,0 +1,453 @@
+{
+	"topics": [
+		{
+            "id": 14,
+			"topic": "Consideration of s 636 Sustainable Planning Act",
+			"relevant": [
+				"[2016] QCA 19"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "636", "act": "Sustainable Planning Act"}],
+			"focus": "law"
+		},
+		{
+            "id": 16,
+			"topic": "Consideration of the power to make practice directions under s 17 Supreme Court of Queensland Act 1991",
+			"relevant": [
+				"[2016] QCA 253",
+				"[2005] QSC 110",
+				"[2008] QCA 109"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "17", "act": "Supreme Court of Queensland Act 1991"}],
+			"focus": "law"
+		},
+		{
+            "id": 18,
+			"topic": "Sustainable Planning Act s 478 appeals and de novo merits review",
+			"relevant": [
+				"[2014] QCA 165"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "478", "act": "Sustainable Planning Act"}],
+			"focus": "law"
+		},
+		{
+            "id": 20,
+			"topic": "Substitution of a creditor and s 465B Corporations Act",
+			"relevant": [
+				"[2011] FCA 683",
+				"[2017] FCA 89"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "465B", "act": "Corporations Act"}],
+			"focus": "law"
+		},
+		{
+            "id": 26,
+			"topic": "Corporations Act s 198F director party to litigation",
+			"relevant": [
+				"[2001] FCA 1846",
+				"[2009] QSC 184",
+				"[2014] FCA 743"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "198F", "act": "Corporations Act"}],
+			"focus": "law"
+		}, 
+		{
+            "id": 30,
+			"topic": "s 459S Corporations Act application for leave",
+			"relevant": [
+				"[2018] FCA 1134",
+				"[2016] FCA 1424"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "459S", "act": "Corporations Act"}],
+			"focus": "law"
+		}, 
+		{
+            "id": 31,
+			"topic": "limits of the scope of s 945A Corporations Act as to having a reasonable basis for advice provided to a client",
+			"relevant": [
+				"[2016] FCA 1023",
+				"[2013] FCA 348",
+				"[2015] FCAFC 8"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "945A", "act": "Corporations Act"}],
+			"focus": "fact"
+		}, 
+		{
+            "id": 36,
+			"topic": "Oppressive dealings under the Corporations Act",
+			"relevant": [
+				"[2017] FCAFC 40",
+				"[2015] FCA 1176",
+				"[2018] QCA 48"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"focus": "generic"
+		}, 
+		{
+            "id": 38,
+			"topic": "Indicia of a franchise and Schedule 1 cl 5 Competition and Consumer (Industry Codes - Franchising) Regulation 2014",
+			"relevant": [
+				"[2004] FCA 808",
+				"[2007] FCA 1522"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "5", "act": "Competition and Consumer (Industry Codes - Franchising) Reg 2014"}],
+			"focus": "law"
+		}, 
+		{
+            "id": 40,
+			"topic": "s 30 Civil Liability Act and whether parties are independent",
+			"relevant": [
+				"[2012] QCA 315",
+				"[2014] QCA 177"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "30", "act": "Civil Liability Act"}],
+			"focus": "fact"
+		}, 
+		{
+            "id": 42,
+			"topic": "Successive appeals s 668D Criminal Code",
+			"relevant": [
+				"[2009] QCA 172",
+				"[2013] QCA 76",
+				"[2013] QCA 149",
+				"[2017] QCA 197",
+				"[2007] QCA 40"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "668D", "act": "Criminal Code"}],
+			"focus": "law"
+		}, 
+		{
+            "id": 48,
+			"topic": "Principles applicable to determining insolvency under s 95A Corporations Act",
+			"relevant": [
+				"[2016] QCA 304",
+				"[2008] QCA 94",
+				"[2013] QCA 37"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "95A", "act": "Corporations Act"}],
+			"focus": "law"
+		}, 
+		{
+            "id": 51,
+			"topic": "remittal of a matter to the same magistrate under s 118 District Court of Queensland Act",
+			"relevant": [
+				"[2016] QCA 46",
+				"[2012] QCA 88",
+				"[2002] QCA 353",
+                "[2016] QDC 277"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "118", "act": "District Court of Queensland Act"}],
+			"focus": "law"
+		}, 
+		{
+            "id": 56,
+			"topic": "Interoperability of ss 478 and 495 Sustainable Planning Act",
+			"relevant": [
+				"[2014] QCA 165"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "478", "act": "Sustainable Planning Act"}, {"section": "495", "act": "Sustainable Planning Act"}],
+			"focus": "law"
+		}, 
+		{
+            "id": 63,
+			"topic": "can development prospects be take into account under s 181(1)(b) Property Law Act",
+			"relevant": [
+				"[2008] QSC 226"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "181", "sub": "(1)(b)", "act": "Property Law Act"}],
+			"focus": "law"
+		},
+		{
+            "id": 66,
+			"topic": "statutory right of user and s 180 Property Law Act",
+			"relevant": [
+				"[2015] QSC 137",
+				"[2013] QSC 21",
+				"[2006] QSC 349",
+				"[2016] QCA 20",
+				"[2005] QSC 112"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "180", "act": "Property Law Act"}],
+			"focus": "law"
+		},
+		{
+            "id": 72,
+			"topic": "UCPR rule 171",
+			"relevant": [
+				"[2014] QSC 205",
+				"[2011] QCA 53",
+				"[2016] QSC 92",
+				"[2017] QSC 75",
+				"[2018] FCA 357"
+			],
+			"type": "broad",
+			"nature": "procedural",
+			"focus": "law"
+		},
+		{
+            "id": 79,
+			"topic": "meaning of personal representative for transfer of shares on death as replaceable rule Corporations Act s 1091AA",
+			"relevant": [
+				"[2004] FCA 1009"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "1091AA", "act": "Corporations Act"}],
+			"focus": "law"
+		},
+		{
+            "id": 92,
+			"topic": "s 58 Civil Proceedings Act and interest",
+			"relevant": [
+				"[2011] QSC 307",
+				"[2016] QCA 158",
+				"[2001] QCA 191",
+				"[2009] QCA 75",
+				"[2012] QSC 127",
+				"[2014] QSC 167"
+			],
+			"type": "broad",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "58", "act": "Civil Proceedings Act"}],
+			"focus": "law"
+		},
+		{
+            "id": 106,
+			"topic": "assignments of rights to litigate under the Trade Practices Act or Competition and Consumer Act",
+			"relevant": [
+				"[2006] FCA 1352",
+				"[2016] QSC 242",
+				"[2014] FCA 347"
+			],
+			"type": "specific",
+			"nature": "substantive",
+			"focus": "law"
+		},
+		{
+            "id": 119,
+            "topic": "whether s 421 of the Environmental Protection Act 1994 confers a right to rescind, or an actionable right to damages",
+            "relevant": [
+            ],
+            "type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "421", "act": "Environmental Protection Act 1994"}]
+        },
+        {
+            "id": 120,
+            "topic": "Whether the existence of warrants alleging offences amounted to proceedings being on foot so as to enliven the disclosure obligations under s 590AB of the Criminal Code 1899",
+            "relevant": [
+            	"[2019] QSC 318"
+            ],
+            "type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "590B", "act": "Criminal Code 1899"}]
+        },
+        {
+            "id": 121,
+            "topic": "Whether an employee breaches s 182 of the Corporations Act 2001 (Cth) where the purpose of his or her conduct was not to gain an advantage for another to cause detriment to his employer",
+            "relevant": [
+            	"[2020] QCA 42"
+            ],
+            "type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "182", "act": "Corporations Act 2001"}]
+        },
+        {
+            "id": 122,
+            "topic": "Whether s 274(1)(b) Electoral Act 1992 is concerned only with incurring electoral expenditure “on behalf of” a political party, elected member or a candidate in an election",
+            "relevant": [
+            ],
+            "type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "274", "sub": "(1)(b)", "act": "Electoral Act 1992"}]
+        },
+        {
+            "id": 123,
+            "topic": "Consideration of the proper construction of s 193A of the Corrective Services Act 2006",
+            "relevant": [
+            ],
+            "type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "193A", "act": "Corrective Services Act 2006"}]
+        },
+         {
+            "id": 124,
+            "topic": "Consideration of the scope of the words “is based on” in s 304(3) of the Criminal Code 1899",
+            "relevant": [
+            ],
+            "type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "304", "sub": "(3)", "act": "Criminal Code 1899"}]
+        },
+         {
+            "id": 125,
+            "topic": "Whether the fact that the applicant was sentenced upon a schedule of agreed facts and later gave evidence inconsistent with those facts justified reopening his sentence pursuant to s 188(1)(c) Penalties and Sentences Act 1992",
+            "relevant": [
+            ],
+            "type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "s 188", "sub": "(1)(c)", "act": "Penalties and Sentences Act 1992"}]
+        },
+         {
+            "id": 127,
+            "topic": "Whether s 324(1) of the Workers’ Compensation and Rehabilitation Act 2003 displaces the lex loci delicti rule for choice of law in relation to foreign torts",
+            "relevant": [
+            ],
+            "type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "324", "sub": "(1)", "act": "Workers’ Compensation and Rehabilitation Act 2003"}]
+        },
+        {
+            "id": 128,
+            "topic": "Consideration of s 59 of the Succession Act 1981",
+            "relevant": [
+            ],
+            "type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "59", "act": "Succession Act 1981"}]
+        },
+		{
+            "id": 129,
+            "topic": "Whether s 3(2) of the Criminal Law (Rehabilitation of Offenders) Act 1986 applies to a detention order made against a child",
+            "relevant": [
+            ],
+            "type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "3", "sub": "(2)", "act": "Criminal Law (Rehabilitation of Offenders) Act 1986"}]
+        },
+        {
+            "id": 130,
+            "topic": "Whether s 33 of the Work Health and Safety Act 2011 constitutes a “continuing offence”",
+            "relevant": [
+            ],
+            "type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "33", "act": "Work Health and Safety Act 2011"}]
+        },
+        {
+            "id": 131,
+            "topic": "Whether adverse comments made by a coroner during an inquest about a police officer’s conduct amounted to a statement that the police officer was civilly liable for something within the meaning of ss 45(5) and 46(3) Coroners Act 2003",
+            "relevant": [
+            ],
+            "type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "45", "sub": "(5)", "act": "Coroners Act 2003"}, {"section": "46", "sub": "(3)", "act": "Coroners Act 2003"}]
+        },
+        {
+            "id": 133,
+            "topic": "Whether the Court may, by force of judicial power, extend the terms of a supervision order under the Dangerous Prisoners (Sexual Offenders) Act 2003",
+            "relevant": [
+            ],
+            "type": "specific",
+			"focus": "law",
+			"nature": "substantive",
+			"legislation_ref": [{"section": "", "sub": "", "act": "Dangerous Prisoners (Sexual Offenders) Act 2003"}]
+        },
+        {
+        	"id": 134, 
+        	"topic": "UCPR r 380",
+        	"type": "specific",
+        	"focus": "law",
+        	"nature": "procedural",
+        	"legislation_ref": [{"section": "380", "act": "UCPR"}],
+        	"comment": "analogue to topic 61"
+        },
+        {
+        	"id": 135, 
+        	"topic": "whether a claim for breach of fiduciary duty can fall within s 6(c) of the Law Reform Act 1995",
+        	"type": "specific",
+        	"focus": "law",
+        	"nature": "substantive",
+        	"relevant": [
+        		"[2019] QSC 246"
+        	],
+        	"legislation_ref": [{"section": "6", "sub": "(c)", "act": "Law Reform Act 1995"}]
+        },
+        {
+        	"id": 136, 
+        	"topic": "Whether s 210 Criminal Code applies to circumstances where there is no physical contact between the accused and the complainant",
+        	"type": "specific",
+        	"focus": "law",
+        	"nature": "substantive",
+        	"relevant": [
+        		"[2019] QCA 204"
+        	],
+        	"legislation_ref": [{"section": "210", "act": "Criminal Code"}]
+        },
+        {
+        	"id": 137, 
+        	"topic": "Whether s 11.1(2) Criminal Code 1995 (Cth) creates a separate element for the attempt offence",
+        	"type": "specific",
+        	"focus": "law",
+        	"nature": "substantive",
+        	"relevant": [
+        		"[2019] QCA 203"
+        	],
+        	"legislation_ref": [{"section": "11.1", "sub": "2", "act": "Criminal Code 1995 (Cth)"}]
+        },
+        {
+        	"id": 138, 
+        	"topic": "Whether s 15(2)(c) Evidence Act 1977 permitted questions to be asked of the defendant to murder charges in relation to previous convictions for child sex offences",
+        	"type": "specific",
+        	"focus": "law",
+        	"nature": "substantive",
+        	"relevant": [
+        		"[2019] QSCPR 11"
+        	],
+        	"legislation_ref": [{"section": "15", "sub": "(2)(c)", "act": "Evidence Act 1977"}]
+        },
+        {
+        	"id": 139,
+        	"topic": "Whether ss 290 and 291 Electoral Act 1992 were inconsistent with ss 314AB and 314AC Commonwealth Electoral Act 1918 (Cth) within the meaning of s 109 Constitution",
+        	"type": "specific",
+        	"focus": "law",
+        	"nature": "substantive",
+        	"relevant": [
+        		"[2019] QCA 187"
+        	],
+        	"legislation_ref": [{"section": "290", "act": "Electoral Act 1992"}, {"section": "291", "act": "Electoral Act 1992"}, {"section": "314AB", "act": "Commonwealth Electoral Act 1918 (Cth)"}, {"section": "109", "act": "Constitution"}]
+        }
+    ]
+}

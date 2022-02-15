@@ -1,0 +1,19 @@
+{
+  "runs": [
+    {
+      "term_scoring_type": "dirichlet_prior",
+      "scoring_method_type": "unigram",
+      "name_format": "%s-unigram_dir_mu_%.2f",
+      "t_param": ["mu"],
+      "t_start": [1050],
+      "t_end": [1050],
+      "t_increment": [50],
+      "m_param": [""],
+      "m_start": [1],
+      "m_end": [1],
+      "m_increment": [1],
+      "folder_name": "dirichlet_prior",
+      "stopwords": []
+    }
+  ]
+}

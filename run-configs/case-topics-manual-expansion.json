@@ -1,0 +1,471 @@
+{
+	"topics": [
+		{
+			"id": 1, 
+			"expanded": ["reinstate", "reregister", "deregister", "recover"]
+		},
+		{
+			"id": 2, 
+			"expanded": ["oral", "vary"]
+		},
+		{
+			"id": 3, 
+			"expanded": ["champertous"],
+			"phrases": ["maintenance and champerty", "degree of control"]
+		},
+		{
+			"id": 4, 
+			"expanded": ["yacht", "ship", "vessel"],
+			"phrases": ["effective cause of sale"]
+		},
+		{
+			"id": 5, 
+			"expanded": ["reduce"]
+		},
+		{
+			"id": 6, 
+			"expanded": [],
+			"phrases": ["due diligence", "absolute discretion"]
+		},
+		{
+			"id": 7, 
+			"expanded": ["champertous"],
+			"phrases": ["maintenance and champerty"]
+		},
+		{
+			"id": 8, 
+			"expanded": ["proportional", "disproportionate", "disproportionality", "strike"],
+			"phrases": ["striking out", "strike out"]
+		},
+		{
+			"id": 9, 
+			"expanded": [],
+			"phrases": ["trade or commerce"]
+		},
+		{
+			"id": 10, 
+			"expanded": ["association"],
+			"phrases": ["trade or commerce"]
+		},
+		{
+			"id": 11, 
+			"expanded": ["organisation", "association"],
+			"phrases": ["duty of care"]
+		},
+		{
+			"id": 12, 
+			"expanded": [],
+			"phrases": ["proprietary relief"]
+		},
+		{
+			"id": 13, 
+			"expanded": ["assess", "retain"],
+			"phrases": ["exemplary damages"]
+		},
+		{
+			"id": 15, 
+			"expanded": ["defamatory"],
+			"phrases": ["Google search results", "search results"]
+		},
+		{
+			"id": 17, 
+			"expanded": ["postpone", "delay"],
+			"phrases": []
+		},
+		{
+			"id": 19, 
+			"expanded": ["duty"],
+			"phrases": ["bare trustee"]
+		},
+		{
+			"id": 21, 
+			"expanded": ["minimal", "small"],
+			"phrases": ["future losses"]
+		},
+		{
+			"id": 23, 
+			"expanded": [],
+			"phrases": ["administrative decision", "standard of proof"]
+		},
+		{
+			"id": 24, 
+			"expanded": ["trust"],
+			"phrases": ["common intention constructive trust", "common intention", "constructive trust"]
+		},
+		{
+			"id": 25, 
+			"expanded": ["restitution", "entitled"],
+			"phrases": ["restitutionary relief"]
+		},
+		{
+			"id": 27, 
+			"expanded": ["judicata", "judicatum", "application"],
+			"phrases": ["interlocutory application", "res judicata", "res judicatum"]
+		},
+		{
+			"id": 28, 
+			"expanded": ["resell", "profits"],
+			"phrases": ["loss of opportunity", "future profit", "future profits"]
+		},
+		{
+			"id": 29, 
+			"expanded": ["period"],
+			"phrases": ["limitation periods", "limitation period", "substantive law", "conflict of laws", "conflict of law"]
+		},
+		{
+			"id": 32, 
+			"expanded": [],
+			"phrases": ["common intention constructive trust", "common intention", "constructive trust"]
+		},
+		{
+			"id": 33, 
+			"expanded": ["revoke", "licence"],
+			"phrases": []
+		},
+		{
+			"id": 34, 
+			"expanded": ["sever"],
+			"phrases": ["joint tenancy", "joint tenants"]
+		},
+		{
+			"id": 35, 
+			"expanded": ["sever"],
+			"phrases": ["severance by conduct", "sever by conduct", "joint tenancy", "joint tenants"]
+		},
+		{
+			"id": 37, 
+			"expanded": ["feelings"],
+			"phrases": ["emotional distress", "hurt feelings"]
+		},
+		{
+			"id": 39, 
+			"expanded": ["disposition", "testamentary", "omit"],
+			"phrases": ["division of property", "testamentary disposition", "dispositive clause"]
+		},
+		{
+			"id": 41, 
+			"expanded": ["liable", "sub-contracted", "sub-contract"],
+			"phrases": ["joint tenancy", "joint tenants"]
+		},
+		{
+			"id": 43, 
+			"expanded": ["equity"],
+			"phrases": ["equitable jurisdiction", "perfected judgment", "criminal jurisdiction"]
+		},
+		{
+			"id": 44, 
+			"expanded": [],
+			"phrases": ["fresh evidence", "new evidence", "fresh or new evidence"]
+		},
+		{
+			"id": 45, 
+			"expanded": [],
+			"phrases": ["obligation to disclose", "obligation to investigate"]
+		},
+		{
+			"id": 46, 
+			"expanded": ["incompetent", "barrister"],
+			"phrases": ["trial counsel"]
+		},
+		{
+			"id": 47, 
+			"expanded": [],
+			"phrases": ["summary judgment", "joint tenants"]
+		},
+		{
+			"id": 49, 
+			"expanded": ["recover", "testamentary"],
+			"phrases": ["recovery of costs", "recover costs"]
+		},
+		{
+			"id": 50, 
+			"expanded": ["restraint"],
+			"phrases": ["right of first refusal", "restraint on alienation"]
+		},
+		{
+			"id": 53, 
+			"expanded": [],
+			"phrases": ["evidentiary standard"]
+		},
+		{
+			"id": 54, 
+			"expanded": ["loss"],
+			"phrases": ["expectation losses", "expectation loss", "misleading or deceptive conduct"]
+		},
+		{
+			"id": 55, 
+			"expanded": ["redact", "document"],
+			"phrases": []
+		},
+		{
+			"id": 57, 
+			"expanded": ["hypothetic", "declaration"],
+			"phrases": []
+		},
+		{
+			"id": 58, 
+			"expanded": [],
+			"phrases": []
+		},
+		{
+			"id": 59, 
+			"expanded": ["motorvehicle", "caravan", "motorhome", "accident"],
+			"phrases": []
+		},
+		{
+			"id": 60, 
+			"expanded": ["motorvehicle", "accident"],
+			"phrases": []
+		},
+		{
+			"id": 61, 
+			"expanded": ["amend", "pleading"],
+			"phrases": ["set down", "trial date"]
+		},
+		{
+			"id": 62, 
+			"expanded": ["clause"],
+			"phrases": ["set off", "suspension clauses", "suspension clause"]
+		},
+		{
+			"id": 64, 
+			"expanded": [],
+			"phrases": ["non party costs"]
+		},
+		{
+			"id": 65, 
+			"expanded": [],
+			"phrases": []
+		},
+		{
+			"id": 67, 
+			"expanded": ["director"],
+			"phrases": ["settlement agreement"]
+		},
+		{
+			"id": 69, 
+			"expanded": ["duty", "remedy"],
+			"phrases": ["fiduciary duty", "fiduciary duties"]
+		},
+		{
+			"id": 70, 
+			"expanded": [],
+			"phrases": []
+		},
+		{
+			"id": 71, 
+			"expanded": [],
+			"phrases": ["judicial review", "unreasonableness", "intelligible justification"]
+		},
+		{
+			"id": 73, 
+			"expanded": [],
+			"phrases": ["specific performance", "sale of land"]
+		},
+		{
+			"id": 74, 
+			"expanded": ["duties"],
+			"phrases": []
+		},
+		{
+			"id": 75, 
+			"expanded": ["protection"],
+			"phrases": ["malicious prosecution", "witness immunity"]
+		},
+		{
+			"id": 76, 
+			"expanded": [],
+			"phrases": []
+		},
+		{
+			"id": 77, 
+			"expanded": [],
+			"phrases": ["security for costs"]
+		},
+		{
+			"id": 78, 
+			"expanded": [],
+			"phrases": ["security for costs"]
+		},
+		{
+			"id": 80, 
+			"expanded": [],
+			"phrases": ["improper purpose"]
+		},
+		{
+			"id": 81, 
+			"expanded": ["clause", "policy"],
+			"phrases": ["definition clause", "professional indemnity insurance"]
+		},
+		{
+			"id": 82, 
+			"expanded": [],
+			"phrases": []
+		},
+		{
+			"id": 83, 
+			"expanded": [],
+			"phrases": []
+		},
+		{
+			"id": 84, 
+			"expanded": [],
+			"phrases": []
+		},
+		{
+			"id": 85, 
+			"expanded": [],
+			"phrases": []
+		},
+		{
+			"id": 86, 
+			"expanded": ["contractual", "documentary", "entitlement"],
+			"phrases": ["documentary entitlement", "contractual entitlement"]
+		},
+		{
+			"id": 87, 
+			"expanded": ["documentary"],
+			"phrases": ["documentary entitlement", "contractual entitlement"]
+		},
+		{
+			"id": 88, 
+			"expanded": [],
+			"phrases": ["ultimate effect"]
+		},
+		{
+			"id": 89, 
+			"expanded": [],
+			"phrases": ["ultimate effect"]
+		},
+		{
+			"id": 90, 
+			"expanded": [],
+			"phrases": []
+		},
+		{
+			"id": 91, 
+			"expanded": ["concurrently"],
+			"phrases": ["concurrent expert evidence", "expert evidence"]
+		},
+		{
+			"id": 93, 
+			"expanded": [],
+			"phrases": ["legal relations"]
+		},
+		{
+			"id": 94, 
+			"expanded": ["relationship"],
+			"phrases": ["legal relations"]
+		},
+		{
+			"id": 95, 
+			"expanded": ["impartial"],
+			"phrases": []
+		},
+		{
+			"id": 96, 
+			"expanded": ["guardian", "friend", "tutor"],
+			"phrases": ["litigation gurdian", "next friend"]
+		},
+		{
+			"id": 97, 
+			"expanded": ["guardian", "friend", "tutor"],
+			"phrases": ["litigation gurdian", "next friend"]
+		},
+		{
+			"id": 98, 
+			"expanded": [],
+			"phrases": []
+		},
+		{
+			"id": 99, 
+			"expanded": ["republished"],
+			"phrases": []
+		},
+		{
+			"id": 101, 
+			"expanded": ["reasonable"],
+			"phrases": ["reasonableness of reliance", "misleading or deceptive conduct"]
+		},
+		{
+			"id": 102, 
+			"expanded": ["equity"],
+			"phrases": ["equitable set off", "set off"]
+		},
+		{
+			"id": 103, 
+			"expanded": ["action", "proceeding"],
+			"phrases": ["stay of actions", "stay of action"]
+		},
+		{
+			"id": 104, 
+			"expanded": ["stay", "proceeding"],
+			"phrases": []
+		},
+		{
+			"id": 105, 
+			"expanded": [],
+			"phrases": ["bare right to litigate", "genuine commercial interest"]
+		},
+		{
+			"id": 107, 
+			"expanded": ["equity"],
+			"phrases": ["unclean hands", "immediate and necessary connection"]
+		},
+		{
+			"id": 108, 
+			"expanded": ["equity", "disentitled"],
+			"phrases": ["unclean hands"]
+		},
+		{
+			"id": 109, 
+			"expanded": ["settle"],
+			"phrases": ["without prejudice"]
+		},
+		{
+			"id": 110, 
+			"expanded": ["settled"],
+			"phrases": ["third party", "third party claim"]
+		},
+		{
+			"id": 111, 
+			"expanded": [],
+			"phrases": ["without prejudice", "subsequent offer"]
+		},
+		{
+			"id": 112, 
+			"expanded": ["appear", "appeared"],
+			"phrases": ["active role"]
+		},
+		{
+			"id": 113, 
+			"expanded": ["property"],
+			"phrases": ["joint venture"]
+		},
+		{
+			"id": 114, 
+			"expanded": ["child"],
+			"phrases": ["foster care"]
+		},
+		{
+			"id": 115, 
+			"expanded": ["waiver"],
+			"phrases": ["non party costs", "former lawyer"]
+		},
+		{
+			"id": 116, 
+			"expanded": [],
+			"phrases": ["cause of action"]
+		},
+		{
+			"id": 117, 
+			"expanded": ["motorvehicle", "motorcycle", "motorbike", "motorvehicles"],
+			"phrases": ["motor bike", "motor vehicle", "motor vehicles", "motor bikes", "motor cycle"]
+		},
+		{
+			"id": 118, 
+			"expanded": ["adequate"],
+			"phrases": ["specific performance", "sale of land", "adequacy of damages"]
+		}
+	]
+}
