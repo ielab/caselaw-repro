@@ -3,7 +3,7 @@
 This repository serves as an appendix to our SIGIR submission. Notebooks used to generate results for the paper can be found in `notebooks`. TREC result files can be found in `run-files`.
 
 ## Retrieval and ranking code
-See [language-model-retrieval repository](github.com/dan-locke/langauge-model-retrieval) for implementations of most methods. 
+See [language-model-retrieval repository](www.github.com/dan-locke/langauge-model-retrieval) for implementations of most methods. 
 
 For BERT based rankers, we used Huggingface, and [KourosAI - NBoost TinyBert model](https://github.com/koursaros-ai/nboost). 
 
