@@ -2,8 +2,6 @@ import os
 import subprocess
 import pandas as pd
 
-GDEVAL_PATH = os.environ["HOME"]
-
 def process(args): 
     res = subprocess.check_output(args)
     results = {}
@@ -66,7 +64,7 @@ def to_trec_df(qrel_path: str, res_path: str, rel_level='1', per_query=False, fi
 
     rbp_res = process_rbp(['rbp_eval', '-q', '-d', '100', '-p', '0.1,0.5,0.8', '-b', rel_level, qrel_path, res_path])
     
-    err_res = process_gdeval(['perl', os.path.join(GDEVAL_PATH, 'gdeval.pl'), qrel_path, res_path])
+    err_res = process_gdeval(['perl', os.path.join('plotlib', 'gdeval.pl'), qrel_path, res_path])
     
     rbp_df = pd.DataFrame.from_dict(rbp_res, orient='index')
     err_df = pd.DataFrame.from_dict(err_res, orient='index')
